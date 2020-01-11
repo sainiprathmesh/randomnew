@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/filereader/filereader.iml" filepath="$PROJECT_DIR$/filereader/filereader.iml" />
       <module fileurl="file://$PROJECT_DIR$/randomnew.iml" filepath="$PROJECT_DIR$/randomnew.iml" />
     </modules>
   </component>
